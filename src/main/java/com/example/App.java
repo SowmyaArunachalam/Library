@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     public static String getGreeting() {
-        return "Hello world!";
+        return "Devops";
     }
 
     public static void main(String[] args) {
